@@ -6,6 +6,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: 'jlfep_weather_vue_test',
   plugins: [
     vue(),
     vueDevTools(),
