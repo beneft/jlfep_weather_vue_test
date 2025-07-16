@@ -1,29 +1,3 @@
-# jlfep_weather_vue_test
+This is a test task. The purpose of this application is simple weather forecast API calling. It displays current, hourly and daily data for any specified city.
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+This is my first time practicing Vue.js, so there may be some overlooks, but I find the result is good enough.
